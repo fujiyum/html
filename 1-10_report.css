@@ -28,31 +28,31 @@ main {
   margin-right: 0;
 }
 
-.contents-title {
+span {
   position: absolute;
   left: 0;
   top: 0;
   background-color: #ff9a4b;
-  color: #eeeeee;
+  color: #ffffff;
 }
 
 .contents-image1 {
   height: 150px;
-  background-image: url(img/flow01.png);
+  background-image: url();
   background-size: cover;
   background-position: bottom;
 }
 
 .contents-image2 {
   height: 150px;
-  background-image: url(img/flow02.png);
+  background-image: url();
   background-size: cover;
   background-position: bottom;
 }
 
 .contents-image3 {
   height: 150px;
-  background-image: url(img/flow03.png);
+  background-image: url();
   background-size: cover;
   background-position: bottom;
 }

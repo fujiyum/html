@@ -74,15 +74,20 @@ footer {
   main {
     display: block;
     width: 100%;
-    margin: 50px auto;
+    margin: 50px 0;
   }
 
   .contents {
     width: 90%;
+    margin-right: auto;
+    margin-left: auto;
     margin-bottom: 20px;
   }
 
   .contents:last-child {
+    margin-right: auto;
+    margin-left: auto;
+    margin-left: auto;
     margin-bottom: 0;
   }
   .contents-image1 {

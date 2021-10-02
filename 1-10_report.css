@@ -38,21 +38,21 @@ span {
 
 .contents-image1 {
   height: 150px;
-  background-image: url();
+  background-image: url(img/flow01.png);
   background-size: cover;
   background-position: bottom;
 }
 
 .contents-image2 {
   height: 150px;
-  background-image: url();
+  background-image: url(img/flow02.png);
   background-size: cover;
   background-position: bottom;
 }
 
 .contents-image3 {
   height: 150px;
-  background-image: url();
+  background-image: url(img/flow03.png);
   background-size: cover;
   background-position: bottom;
 }
@@ -73,17 +73,28 @@ footer {
 
   main {
     display: block;
-    width: 300px;
+    width: 100%;
     margin: 50px auto;
   }
 
   .contents {
-    width: 100%;
-    margin-bottom: 30px;
+    width: 90%;
+    margin-bottom: 20px;
   }
 
   .contents:last-child {
     margin-bottom: 0;
+  }
+  .contents-image1 {
+    height: 150px;
+  }
+
+  .contents-image2 {
+    height: 150px;
+  }
+
+  .contents-image3 {
+    height: 150px;
   }
 
   footer {
